@@ -48,7 +48,7 @@ function makeSound(key){
         snare.play();
         break;
 
-        case "i":
+        case "l":
         var kick= new Audio("./sounds/kick-bass.mp3");
         kick.play();
         break;
